@@ -2,10 +2,6 @@
 
 Fall and daily-activity classification from one-second wrist-worn inertial sensor frames. The project combines an MPU9250 acquisition program, signal preparation utilities, autocorrelation features, and support-vector classifiers for multiclass activity recognition and binary fall detection.
 
-<p align="center">
-  <img src="docs/assets/device-on-wrist.jpg" alt="Wrist-worn health-monitoring device" width="760">
-</p>
-
 ## System overview
 
 <p align="center">
